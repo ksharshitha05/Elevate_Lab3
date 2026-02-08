@@ -60,3 +60,12 @@ EDA_Task_3/
 │
 ├── README.md
 └── requirements.txt
+
+
+##outputs:
+
+<img width="893" height="784" alt="Image" src="https://github.com/user-attachments/assets/ded26fdf-9ac8-4588-9907-3bae2729bdf3" />
+
+<img width="1302" height="521" alt="Image" src="https://github.com/user-attachments/assets/3e684d2d-2533-48cc-9247-b715126166a8" />
+
+<img width="1335" height="262" alt="Image" src="https://github.com/user-attachments/assets/975dec37-713d-4e39-a23b-02742deba9e4" />

@@ -1,0 +1,6 @@
+EDA INSIGHTS
+
+1. Petal length & petal width are highly correlated.
+2. Sepal width shows mild outliers.
+3. Movies dominate Netflix content.
+4. Rating distribution is skewed.
